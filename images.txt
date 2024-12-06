@@ -1,1 +1,2 @@
 koishijs/koishi
+vaultwarden/server
