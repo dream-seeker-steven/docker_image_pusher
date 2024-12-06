@@ -1,2 +1,1 @@
-koishijs/koishi
-vaultwarden/server
+--alias=myvaultwarden/server vaultwarden/server
