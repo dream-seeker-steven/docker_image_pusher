@@ -1,1 +1,1 @@
---alias=myvaultwarden/server vaultwarden/server
+'--alias=vaultwarden vaultwarden/server'
